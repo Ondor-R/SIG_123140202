@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 from database import get_pool, close_pool
-from routers import halte
+from routers import halte, auth
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -27,3 +27,4 @@ app.add_middleware(
 )
 
 app.include_router(halte.router)
+app.include_router(auth.router)
