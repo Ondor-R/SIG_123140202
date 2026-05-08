@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31432942185266,
+          -5.358150662394092
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31400007663089,
+          -5.35871230753809
+        ]
+      },
+      "properties": {
+        "jenis": "Bus/Truk",
+        "confidence": 0.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31420748655879,
+          -5.358183278986648
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31403177380487,
+          -5.358705567305084
+        ]
+      },
+      "properties": {
+        "jenis": "Bus/Truk",
+        "confidence": 0.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31427023767898,
+          -5.358164872842283
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31376497512962,
+          -5.358673205788975
+        ]
+      },
+      "properties": {
+        "jenis": "Bus/Truk",
+        "confidence": 0.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.314803823092,
+          -5.358018650991218
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31527799626781,
+          -5.358345586319291
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.15
+      }
+    }
+  ]
+}

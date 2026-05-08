@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31644852618781,
+          -5.355316506116604
+        ]
+      },
+      "properties": {
+        "jenis": "Bus/Truk",
+        "confidence": 0.3,
+        "sumber": "itera_asrama.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31686395918418,
+          -5.355838870192513
+        ]
+      },
+      "properties": {
+        "jenis": "Bus/Truk",
+        "confidence": 0.15,
+        "sumber": "itera_asrama.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23198654367698,
+          -5.36117835898381
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.37,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23268073690161,
+          -5.361869526778409
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.23,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23297689404757,
+          -5.362754724981242
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.22,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23116435761361,
+          -5.36130673411454
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.21,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23256826430986,
+          -5.36167742601785
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.2,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23241538275953,
+          -5.3614873780062755
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.18,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.23167139227525,
+          -5.361213780351587
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.17,
+        "sumber": "jalan_hajimena.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31372202250483,
+          -5.3584073692953105
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.19,
+        "sumber": "jalan_ryacudu.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31678753670681,
+          -5.3522942485436875
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.21,
+        "sumber": "parkiran_indogrosir.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31645393789485,
+          -5.3521379141734045
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.18,
+        "sumber": "parkiran_indogrosir.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31633065462648,
+          -5.352213140097576
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.16,
+        "sumber": "parkiran_indogrosir.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31666743284933,
+          -5.352344793431437
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.15,
+        "sumber": "parkiran_indogrosir.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31971755864225,
+          -5.348227784813481
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.26,
+        "sumber": "terminal rajabasa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32065274068061,
+          -5.348983623922627
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.23,
+        "sumber": "terminal rajabasa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32080128497194,
+          -5.348764180747695
+        ]
+      },
+      "properties": {
+        "jenis": "Mobil",
+        "confidence": 0.2,
+        "sumber": "terminal rajabasa.png"
+      }
+    }
+  ]
+}
